@@ -2,7 +2,7 @@
   "name": "netease-clound-webapps",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "javaSwing <zxdlovejava@gmail.com>",
+  "author": "testsla <1938531151@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
